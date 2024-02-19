@@ -1,0 +1,7 @@
+👇Código 1:
+!pip install git+https://github.com/openai/whisper.git
+
+!sudo apt update && sudo apt install ffmpeg
+
+👇Código 2:
+!whisper "nome do arquivo aqui.mp3" --model medium
